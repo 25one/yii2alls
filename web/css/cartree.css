@@ -1,0 +1,33 @@
+.wrap {
+width:100%;
+}
+
+.form {
+width:20%;
+float:left;
+padding:20px;
+}
+
+.content {
+width:70%;
+float:left;
+padding:20px;
+}
+
+.form_cartree {
+margin:0px;
+padding:0px;
+}
+
+.table {
+display:table;
+}
+
+.table_row {
+display:table-row;
+}
+
+.table_cell {
+display:table-cell;
+}
+

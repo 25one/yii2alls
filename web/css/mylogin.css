@@ -1,0 +1,84 @@
+body, html {
+font-size:1.0em;
+}
+
+.title_login_field, .title_password_field, .title_select_field, .title_state_field, .title_country_field {
+display:inner-block;
+width:7em;
+}
+
+.select_field {
+width:10em;
+}
+
+.title_error_access {
+color:red;
+font-weight:bolder;
+}
+
+.contatainer {
+width:100%;
+}
+
+.contatainer_surprise {
+width:100%;
+}
+
+.contatainer_surprise_left {
+width:20%;
+float:left;
+}
+
+.contatainer_surprise_right {
+width:78%;
+float:right;
+}
+
+.clear_both {
+clear:both;
+}
+
+.contatainer_country {
+width:100%;
+}
+
+.title_hint {
+color:red;
+}
+
+.fa.fa-delete, .fa.fa-update {
+text-align:center;
+}
+
+.win {
+display:table;
+width:100%;
+}
+
+.win_row {
+display:table-row;
+width:100%;
+}
+
+.win_cell_title {
+display:table-cell;
+width:30%;
+font-weight:bolder;
+padding-left:20px; 
+}
+
+.win_cell_content {
+display:table-cell;
+width:70%;
+}
+
+.username {
+font-weight:bold;
+}
+
+.img_user {
+width:150px;
+}
+
+
+
