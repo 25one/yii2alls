@@ -1,5 +1,5 @@
 <b>1.В каталоге, доступном из web (var/www или ваш вариант настройки), выполните следующие команды:</b>
-<br>git clone https://github.com/25one/yii2alls.git . (!ОБРАТИТЕ ВНИМАНИЕ НА « .» В КОНЦЕ)
+<br>git clone https://github.com/25one/yii2alls.git .(!ОБРАТИТЕ ВНИМАНИЕ НА « .» В КОНЦЕ)
 <br>rm -rf .git
 <br>sudo chmod -R 777 web/assets
 <br>sudo chmod -R 777 web/img
